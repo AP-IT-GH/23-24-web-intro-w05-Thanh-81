@@ -4,11 +4,11 @@
 
 ### `index.html` openen
 
- - [ ] Open het bestand genaamd [`index.html`](index.html).
+ - [X] Open het bestand genaamd [`index.html`](index.html).
 
 ### `style.css` koppelen
 
-- [ ] Koppel de eigen css uit [`style.css`](css/style.css) aan de HTML.
+- [X] Koppel de eigen css uit [`style.css`](css/style.css) aan de HTML.
     - `./css/style.css` en gebruik de klasse `themed-container` voor section
 
 ### bekijk de Bootstrap cheatsheet
@@ -22,21 +22,21 @@
 
 #### head
 
-- [ ] Voeg de `style.css` uit de map css toe.
+- [X] Voeg de `style.css` uit de map css toe.
 
 #### nav
 
-- [ ] Nav heeft een klasse navbar.
-- [ ] De navbar vergroot bij het breakpoint md.
-- [ ] De navbar heeft een lichte achtergrond.
-- [ ] div heeft een container van `100%` breed.
-- [ ] Het logo `coffee.png` zit in een klasse navbar-brand.
-- [ ] Alle list-items behoren tot de klasse nav-item en hebben een nav-link.
-- [ ] De dropdown heeft een klasse dropdown-menu met dropdown-items.
-- [ ] De button heeft een kleine button en heeft een grijze omtrek.
+- [X] Nav heeft een klasse navbar.
+- [X] De navbar vergroot bij het breakpoint md.
+- [X] De navbar heeft een lichte achtergrond.
+- [X] div heeft een container van `100%` breed.
+- [X] Het logo `coffee.png` zit in een klasse navbar-brand.
+- [X] Alle list-items behoren tot de klasse nav-item en hebben een nav-link.
+- [X] De dropdown heeft een klasse dropdown-menu met dropdown-items.
+- [X] De button heeft een kleine button en heeft een grijze omtrek.
 
 #### header
-- [ ] De header staat in een rij.
+- [X] De header staat in een rij.
 - [ ] h1 heeft een kolom, een gecentreerde tekst en een koffiebruine kleur  .
 _(tip: zie ./css/style.css)_
 
